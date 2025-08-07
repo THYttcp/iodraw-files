@@ -46,7 +46,7 @@
           <mxGeometry x="320" y="310" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7mFAbh3UR4SP_8a5Kgii-0" value="从被控对象 (Plant) 输入:当前车辆状态&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="320" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="40" width="240" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
